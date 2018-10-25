@@ -2,13 +2,14 @@
 
 Entry Level Security Analyst Interview Questions
 
+-A combination of 2 interviews, left out the majority of team building general questions,etc- EX: "How do you work understress?" 
+
 
 
 *  What are ports and their numbers like DNS, FTP, and DHCP?
 *  What is the OSI model layers and what were their functions?
 *  What is a DNS?
 *  What Linux command you would use to limit administration access?
-*  How do you work under stress?
 *  What is ransomeware?
 *  Explain WannaCry
 *  How do you find out latest exploits and news in the industry?
