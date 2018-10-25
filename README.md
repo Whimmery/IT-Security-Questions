@@ -22,4 +22,4 @@ Entry Level Security Analyst Interview Questions
 *  Which security method helps block and prevent ports from being accessed?
 *  What prevents a network from intrusion?
 *  What is an injection attack?
-*  How do you read wireshark and a IDS/IPS scan paper for intrusion scans and how/why the intrusion occured
+*  How do you read Wireshark and a IDS/IPS scan paper for intrusion scans and how/why the intrusion occured
