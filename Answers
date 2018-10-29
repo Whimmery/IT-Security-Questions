@@ -27,9 +27,12 @@ Layer 1: (The physical layer.) Ethernet Cables
 DNS Stands for Domain Name Server is a server that your computer sends a request to find an IP address to match a domain name request.
 In order to find the IP address the computer first goes to the Resolving Name Server/DNS Recursor of the computer's Operating System.
 If the DNS cannot find the IP address at the RNS, it will go to 1 of 13 Root Servers.
-IF the Root Servers cannot find the IP address, it will go to the Top Level Domain Servers(TLD) and looks for the IP address and the .com,.org,.net portion of host name.
-If it still cannot be found in the TLD, it will go to Authoritative Name Servers(which is updated whenever someone buys or sells a domain).
-Once it is found on the ANS, it will send it back to the RNS, and then to the requesting computer and then save the IP address either with cache or on the RNS.
+IF the Root Servers cannot find the IP address, it will go to the Top Level Domain Servers(TLD) and 
+looks for the IP address and the .com,.org,.net portion of host name.
+If it still cannot be found in the TLD, 
+it will go to Authoritative Name Servers(which is updated whenever someone buys or sells a domain).
+Once it is found on the ANS, it will send it back to the RNS, 
+and then to the requesting computer and then save the IP address either with cache or on the RNS.
 
 *  What Linux command you would use to limit administration access?
 
@@ -37,14 +40,17 @@ chmod
 
 *  What is ransomeware?
 
-Ransomware is a type of malicious software that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid.
+Ransomware is a type of malicious software that threatens to publish the victim's data or 
+perpetually block access to it unless a ransom is paid.
 Often asking for cryptocurrency for payment.
 
 *  Explain WannaCry
 
 The WannaCry ransomware attack was a May 2017 worldwide cyberattack by the WannaCry ransomware cryptoworm.
-It targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the Bitcoin cryptocurrenucy.
-It found a weakness in a Windows 10 OS, and the ransomeware was stopped by finding the domain site of the attacker that wasnt registered and buying the registration rights.
+It targeted computers running the Microsoft Windows operating system by encrypting data 
+and demanding ransom payments in the Bitcoin cryptocurrenucy.
+It found a weakness in a Windows 10 OS, and the ransomeware was stopped by 
+finding the domain site of the attacker that wasnt registered and buying the registration rights.
 
 *  How do you find out latest exploits and news in the industry?
 
@@ -88,8 +94,10 @@ It creates these identifiers using a number of octates of bits for subnets. (Loo
 *  What is DHCP?
 
 DHCP stands for Dynamic Host Configuration Protocol, it can be its own server but Routers often have a DHCP built in.
-DHCP assigns individual private IP addresses to computers assigned to a network and will convert the private ip addresses to public addresses to the internet.
-Then the DHCP will turn the public IP back into private ip addresses when returning the information to the router and back to the individual computer that requested the information.
+DHCP assigns individual private IP addresses to computers assigned to a network and 
+will convert the private ip addresses to public addresses to the internet.
+Then the DHCP will turn the public IP back into private ip addresses when returning the information to 
+the router and back to the individual computer that requested the information.
 
 *  Which security method helps block and prevent ports from being accessed?
 
@@ -100,7 +108,8 @@ Firewall
 IPS
 
 *  What is an injection attack?
-Injection attacks refer to attacks that allow an attacker to supply untrusted input to a program, which gets processed by an interpreter as part of a command or query.
+Injection attacks refer to attacks that allow an attacker to supply untrusted input to a program, 
+which gets processed by an interpreter as part of a command or query.
 This alters the course of execution of that program.
 
 Different types of injection attacks are:
