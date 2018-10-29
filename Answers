@@ -89,7 +89,8 @@ TCP Handshake
 *  What is CIDR?
 
 CIDR means Classless Inter-Domain Routing  and uses the Internet Protocol to create unique idrentifiers for networks and devices.
-It creates these identifiers using a number of octates of bits for subnets. (Look into "Subnetting from CIDR" and how the bits work) 
+It creates these identifiers using a number of octates of bits for subnets. 
+(Look into "Subnetting from CIDR" and how the bits work: https://www.youtube.com/watch?v=POPoAjWFkGg ) 
 
 *  What is DHCP?
 
@@ -122,3 +123,6 @@ Different types of injection attacks are:
 -XPath injection
 
 *  How do you read Wireshark and a IDS/IPS scan paper for intrusion scans and how/why the intrusion occured
+https://www.youtube.com/watch?v=DsodajLA57o
+https://www.youtube.com/watch?v=7iguG7va4l8
+https://www.youtube.com/watch?v=6rCbgmuWldQ
