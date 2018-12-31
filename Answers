@@ -5,10 +5,7 @@ Linux command bible: https://www.mediacollege.com/linux/command/linux-command.ht
 
 *  What are top 10 OWASP Vulnerabilities?
 
-1. Injection-
-
-
-
+1. Injection
 2. Broken Authentication and Session Management
 3. Cross-Site Scripting (XSS)
 4. Insecure Direct Object References
