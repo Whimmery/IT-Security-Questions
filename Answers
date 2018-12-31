@@ -5,7 +5,7 @@ Linux command bible: https://www.mediacollege.com/linux/command/linux-command.ht
 *  Ports to know:
 
 DNS 53 (Domain name server)
-UDP 67 and 68
+UDP 67 and 68 (livestream/ broadcast)
 DHCP 67 and 68 (it's a UDP protocol)
 HTTP 80 (web browser)
 HTTPS 443 (secure web browser)
