@@ -5,9 +5,12 @@ Linux command bible: https://www.mediacollege.com/linux/command/linux-command.ht
 
 *  What are top 10 OWASP Vulnerabilities?
 
-1. Injection
+1. Injection-
+
+
+
 2. Broken Authentication and Session Management
-3. Cross-Site Scripting
+3. Cross-Site Scripting (XSS)
 4. Insecure Direct Object References
 5. Security Misconfiguration
 6. Sensitive Data Exposure
@@ -15,7 +18,8 @@ Linux command bible: https://www.mediacollege.com/linux/command/linux-command.ht
 8. Cross-Site Request Forgery
 9. Using Components With Known Vulnerabilities
 10. Unvalidated Redirects and Forwards
-(examples: https://securityintelligence.com/the-10-most-common-application-attacks-in-action/ )
+(definition examples: https://securityintelligence.com/the-10-most-common-application-attacks-in-action/ )
+(testing in practice examples: https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet )
 
 *  What is DMZ?
 
