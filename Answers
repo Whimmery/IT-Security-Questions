@@ -2,6 +2,13 @@ This section holds the Answers to the Interview Questions
 
 Linux command bible: https://www.mediacollege.com/linux/command/linux-command.html
 
+*  What types of Firewalls are there?
+
+1. Packet-filtering firewalls
+2. Stateful inspection firewalls
+3. Circuit-level gateways
+4. Application-level gateways (proxy firewalls)
+5. Next-gen firewalls
 
 *  What are top 10 OWASP Vulnerabilities?
 
