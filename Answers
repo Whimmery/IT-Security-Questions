@@ -16,11 +16,25 @@ SMTP 25 (email)
 
 *  What types of Firewalls are there?
 
-1. Packet-filtering firewalls
-2. Stateful inspection firewalls
-3. Circuit-level gateways
-4. Application-level gateways (proxy firewalls)
-5. Next-gen firewalls
+
+
+1. Packet-filtering firewalls - inspect packers origination IP address, packet type, port number, 
+                                and other surface-level information without opening up the packet to inspect its contents.
+
+2. Stateful inspection firewalls - combines both packet inspection technology and TCP handshake verification
+
+3. Circuit-level gateways -  work by verifying the transmission control protocol (TCP) handshake but doesnt check packets
+
+4. Application-level gateways (proxy firewalls) - establishes a connection to the source of the traffic at application layer
+                                                  and inspects the incoming data packets
+
+5. Next-gen firewalls -  includes deep-packet inspection (checking the actual contents of the data packet), TCP handshake checks, 
+                         and surface-level packet inspection. 
+                         May include other technologies as well, such as intrusion prevention systems (IPSs) 
+                         that work to automatically stop attacks against of network
+
+
+
 
 *  What are top 10 OWASP Vulnerabilities?
 
