@@ -39,13 +39,13 @@ Dynamic Host Configuration Protocol - (Also has a handshake in information shari
 
 OSI model stands for Open System Interconnection and has 7 layers.
 
-Layer 7: (The application layer.) Network Process to Application/End User Interface
-Layer 6: (The presentation layer.) Data Representation and Encryption
-Layer 5: (The session layer.) Interhost Communication, Email, Error correction
-Layer 4: (The transport layer.) TCP, UDP, Disassembles and sends Packets
-Layer 3: (The network layer.) IP addressing, Routers,
-Layer 2: (The data-link layer.) MAC addressing, Network Cards, Switches,
-Layer 1: (The physical layer.) Ethernet Cables
+Layer 7: (Application layer.) Network Process to Application/End User Interface
+Layer 6: (Presentation layer.) Data Representation and Encryption
+Layer 5: (Session layer.) Interhost Communication, Email, Error correction
+Layer 4: (Transport layer.) TCP, UDP, Disassembles and sends Packets
+Layer 3: (Network layer.) IP addressing, Routers,
+Layer 2: (Data-link layer.) MAC addressing, Network Cards, Switches,
+Layer 1: (Physical layer.) Ethernet Cables
 
 
 *  What is a DNS?
