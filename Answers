@@ -2,6 +2,28 @@ This will hold the answers to the Interview Questions
 
 Linux command bible: https://www.mediacollege.com/linux/command/linux-command.html
 
+
+*  What are top 10 OWASP Vulnerabilities?
+
+1. Injection
+2. Broken Authentication and Session Management
+3. Cross-Site Scripting
+4. Insecure Direct Object References
+5. Security Misconfiguration
+6. Sensitive Data Exposure
+7. Missing Function Level Access Control
+8. Cross-Site Request Forgery
+9. Using Components With Known Vulnerabilities
+10. Unvalidated Redirects and Forwards
+(examples: https://securityintelligence.com/the-10-most-common-application-attacks-in-action/ )
+
+*  What is DMZ?
+
+DeMilitarized Zones is the area where servers are put outside the network and a firewall-
+to act as a buffer to keep the network from being attacked when the servers are being targetted.
+A second firewall can be placed infront of the servers in the DMZ area to add an extra layer of protection to the servers
+
+
 *  What are ports and their numbers like DNS, FTP, and DHCP?
 
 DNS - Domain Name Server , Port 53
