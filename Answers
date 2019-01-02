@@ -50,7 +50,7 @@ SMTP 25 (email)
 10. Insufficient Logging & Monitoring
 
 (definition examples: https://www.owasp.org/index.php/Top_10-2017_Top_10)
-(testing in practice examples: https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet )
+(practice examples: https://www.greycampus.com/blog/information-security/owasp-top-vulnerabilities-in-web-applications )
 (video examples: https://securityintelligence.com/the-10-most-common-application-attacks-in-action/ )
 
 *  What is DMZ?
